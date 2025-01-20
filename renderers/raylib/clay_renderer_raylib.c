@@ -1,3 +1,6 @@
+// I had to import this header?
+#include "../../clay.h"
+
 #include "raylib.h"
 #include "raymath.h"
 #include "stdint.h"
